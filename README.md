@@ -5,6 +5,6 @@ Costa Rican DevOps Engineers
 
 * [Chef Intro](http://crdevops.github.io/chef-intro/)
 
-## Collaborators
+## Contribuitors
 
 * [Mauricio Araya V.](http://mauricioaraya.net/)
